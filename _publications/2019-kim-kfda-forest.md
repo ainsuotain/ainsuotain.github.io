@@ -4,7 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2019-kim-kfda-forest
 excerpt: 'KFDA Forest: kernel Fisher discriminant analysis-based tree ensemble classifier.'
-date: 2019-01-01
-venue: 'International Journal of Industrial Engineering (SCIE, Q3)'
-citation: 'Donghwan Kim, Seoung Hwan Park, and Jun-Geol Baek (2019). &quot;A KERNEL FISHER DISCRIMINANT ANALYSIS-BASED TREE ENSEMBLE CLASSIFIER: KFDA FOREST.&quot; <i>IJIE</i>, 25(5).'
+date: 2019-01-03
+venue: 'International Journal of Industrial Engineering, 25(5), 569–579 (SCIE, Q3)'
+paperurl: 'https://doi.org/10.23055/ijietap.2018.25.5.3703'
+citation: 'Kim, D., Park, S. H., &amp; Baek, J.-G. (2019). &quot;A Kernel Fisher Discriminant Analysis-Based Tree Ensemble Classifier: KFDA Forest.&quot; <i>International Journal of Industrial Engineering</i>, 25(5), 569–579. https://doi.org/10.23055/ijietap.2018.25.5.3703'
 ---

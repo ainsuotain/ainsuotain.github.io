@@ -18,7 +18,7 @@ Education
 * **Ph.D. in Industrial & Management Engineering**, Korea University, Seoul, South Korea (Sep 2014 – Aug 2022)  
   Advisor: Prof. Jun-Geol Baek, Smart Production System Laboratory · GPA: 4.14 / 4.5  
   Dissertation: *A study on the data augmentation method for ensemble application: general classification and univariate forecasting problem*
-* **B.S. in Industrial and Management Engineering** (with Interdisciplinary Studies), Konkuk University, Seoul, South Korea (Mar 2010 – Aug 2014)  
+* **B.S. in Industrial and Management Engineering** (originally with Interdisciplinary Studies), Konkuk University, Seoul, South Korea (Mar 2010 – Aug 2014)  
   Advisor: Prof. Kyungmee Kim · GPA: 3.81 / 4.5 (Magna Cum Laude)
 
 Work experience
@@ -48,7 +48,7 @@ Selected technical skills
 
 Software packages
 ======
-* [pasadr](https://cran.r-project.org/) (R, 2020) — Process-Aware Stealthy Attack Detection (>8,000 downloads)
+* pasadr (R, 2020) — Process-Aware Stealthy Attack Detection (>8,000 downloads)
 * matrixProfile (R, 2018) — Time Series Similarity & Anomaly Detection (>17,000 downloads)
 * kfda (R, 2017) — Kernel Fisher Discriminant Analysis (>28,000 downloads)
 
