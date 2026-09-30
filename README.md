@@ -1,8 +1,16 @@
-# [Blog for nothing..](https://ainsuotain.github.io/)
+# Donghwan Kim — Personal Site
 
+Academic / professional homepage powered by [Academic Pages](https://github.com/academicpages/academicpages.github.io).
 
-은근한 지식 자랑 이나 내용 정리도 아닌 블로그...:cry:.
+**Live site:** https://ainsuotain.github.io/
 
-<!-- :smile:.  -->
+## Update content
+- Site settings: `_config.yml`
+- Navigation: `_data/navigation.yml`
+- Home: `_pages/about.md`
+- CV: `_pages/cv.md`
+- Patents: `_pages/patents.md`
+- Publications: `_publications/*.md`
+- Teaching: `_teaching/*.md`
 
-** HLKY
+Push to `master` to publish.

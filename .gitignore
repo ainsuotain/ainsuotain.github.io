@@ -1,29 +1,23 @@
-# Vim
-*~
-*.sw[p_]
+# Ignore the contents of the _site directory and other cache directories
+_site/
+.sass-cache/
 
-# Sublime Text
-*.sublime-project
-*.sublime-workspace
+# Ignore the directory for local files during development
+local/
 
-# Ruby Gem
-*.gem
-.bundle
+# Ignore the Gemfile that is generated
 Gemfile.lock
-**/vendor/bundle
 
-# Node.js and NPM
+# Ignore files created by npm
 node_modules
-npm-debug.log*
 package-lock.json
-codekit-config.json
 
-# macOS
+# Ignore the vendor file at root level and bundle for alternative installation
+/vendor/
+.bundle/
+
+# Ignore folders related to IDEs
+.vscode/
+
+# Ignore files created by MacOS
 .DS_Store
-
-# Jekyll generated files
-.jekyll-cache
-.jekyll-metadata
-.sass-cache
-_asset_bundler_cache
-_site

@@ -1,26 +1,9 @@
-# Contributing
+Contributions are welcome! 
 
-Having trouble working with the theme? Found a typo in the documentation? 
-Interested in adding a feature or [fixing a bug](https://github.com/mmistakes/minimal-mistakes/issues)? 
-Then by all means [submit an issue](https://github.com/mmistakes/minimal-mistakes/issues/new) 
-or [pull request](https://help.github.com/articles/using-pull-requests/). 
-If this is your first pull request, it may be helpful to read up on the 
-[GitHub Flow](https://guides.github.com/introduction/flow/) first.
+Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). To preform a pull request:
 
-Minimal Mistakes has been designed as a base for you to customize and fit your 
-site's unique needs. Please keep this in mind when requesting features and/or 
-submitting pull requests. If it's not something that most people will use, I 
-probably won't consider it. When in doubt ask.
+1. Clone the repository.
+1. Create a branch off of master and give it a meaningful name (e.g. `my-new-feature`).
+1. Open a pull request on GitHub and describe the feature or fix.
 
-This goes for author sidebar links and "share button" additions -- I have no 
-intention of merging in every possibly option, the essentials are there to get 
-you started :smile:.
-
-## Pull Requests
-
-When submitting a pull request:
-
-1. Clone the repo.
-2. Create a branch off of `master` and give it a meaningful name (e.g. 
-   `my-awesome-new-feature`) and describe the feature or fix.
-3. Open a pull request on GitHub.
+Please remember that this repository is intended to remain an easy to use, generic, and ready-to-fork template that demonstrates the features of Academic Pages, so extremely narrowly foucsed features are likley to be rejected. Futhermore, some mild LLM / Agentic AI checks are in place to ensure that contrubtions are submitted by humans. 
