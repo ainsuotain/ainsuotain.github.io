@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Donghwan Kim"
 title_separator          : "-"
 name                     : &name "Donghwan Kim"
-description              : &description "Senior Data Scientist · Industrial AI, predictive maintenance, and generative AI for manufacturing"
+description              : &description "Senior Data Scientist working on industrial AI, predictive maintenance, and generative AI for manufacturing"
 url                      : https://ainsuotain.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ainsuotain/ainsuotain.github.io"
@@ -25,16 +25,16 @@ author:
   avatar           : "profile.png"
   name             : "Donghwan Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Senior Data Scientist · Industrial AI & Predictive Maintenance"
+  bio              : "Senior Data Scientist | Industrial AI and Predictive Maintenance"
   location         : "San Jose, CA"
   employer         : "Aidentyx Inc."
   uri              : # URL
-  email            : "dhkim2.us@gmail.com"
+  email            : "donhkim9714@korea.ac.kr"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/scholar?q=%22Donghwan+Kim%22+%22Korea+University%22+industrial"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
@@ -65,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "donghwan-k-70b44076"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

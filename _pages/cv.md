@@ -34,8 +34,8 @@ Work experience
 
 Teaching
 ======
-* **Adjunct Professor**, Cyber University of Korea (Jul 2022 – Aug 2024) — Business Analytics & Data-Driven Decision Making
-* **Python & Machine Learning Instructor**, Meta Code (2024 – 2026) — 430+ learners
+* **Adjunct Professor**, Cyber University of Korea (Jul 2022 – Aug 2024) , Business Analytics & Data-Driven Decision Making
+* **Python & Machine Learning Instructor**, Meta Code (2024 – 2026) , 430+ learners
 * **Data Science Instructor & Mentor**, Fast Campus (Apr 2019 – Nov 2020)
 
 Selected technical skills
@@ -48,9 +48,9 @@ Selected technical skills
 
 Software packages
 ======
-* pasadr (R, 2020) — Process-Aware Stealthy Attack Detection (>8,000 downloads)
-* matrixProfile (R, 2018) — Time Series Similarity & Anomaly Detection (>17,000 downloads)
-* kfda (R, 2017) — Kernel Fisher Discriminant Analysis (>28,000 downloads)
+* pasadr (R, 2020) , Process-Aware Stealthy Attack Detection (>8,000 downloads)
+* matrixProfile (R, 2018) , Time Series Similarity & Anomaly Detection (>17,000 downloads)
+* kfda (R, 2017) , Kernel Fisher Discriminant Analysis (>28,000 downloads)
 
 Awards & distinctions
 ======

@@ -1,5 +1,5 @@
 ---
-title: "Adjunct Professor — Business Analytics & Data-Driven Decision Making"
+title: "Adjunct Professor , Business Analytics & Data-Driven Decision Making"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-cyber-university-adjunct

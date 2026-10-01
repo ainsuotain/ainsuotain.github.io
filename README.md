@@ -1,4 +1,4 @@
-# Donghwan Kim — Personal Site
+# Donghwan Kim: Personal Site
 
 Academic / professional homepage powered by [Academic Pages](https://github.com/academicpages/academicpages.github.io).
 
